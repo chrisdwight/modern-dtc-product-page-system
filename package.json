@@ -1,0 +1,11 @@
+{
+  "name": "aura-landing-page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static landing page template for Aura lamp",
+  "scripts": {
+    "start": "npx serve -s . -l 8000 || python3 -m http.server 8000",
+    "dev": "npx http-server -p 8000",
+    "preview": "python3 -m http.server 8000"
+  }
+}

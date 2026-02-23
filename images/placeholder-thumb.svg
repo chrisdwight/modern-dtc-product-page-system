@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="placeholder thumbnail">
+  <rect width="120" height="120" rx="12" fill="#F3F4F6" />
+  <g fill="#9CA3AF" font-family="sans-serif" font-size="10" text-anchor="middle">
+    <text x="60" y="62">Thumbnail</text>
+  </g>
+</svg>

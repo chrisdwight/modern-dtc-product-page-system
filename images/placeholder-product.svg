@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="placeholder product image">
+  <rect width="600" height="600" rx="24" fill="#FFFFFF" stroke="#E5E7EB" />
+  <g fill="#9CA3AF" font-family="sans-serif" font-size="20" text-anchor="middle">
+    <text x="300" y="310">Product Image</text>
+    <text x="300" y="340" font-size="14">Replace with your high-res image</text>
+  </g>
+</svg>
